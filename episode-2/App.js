@@ -1,10 +1,14 @@
+//here we are importing these two statements from the node modules
+import React from "react";
+import ReactDOM from "react-dom/client";
+
 /* In order to create a nested element*/
 const content = React.createElement(
 	"div",
 	{ id: "parent" },
 	React.createElement("div", { id: "child" }, [
-		React.createElement("h1", {}, "I am an H1 Tag"),
-		React.createElement("h2", {}, "I am an H2 Tag"),
+		React.createElement("h1", {}, "Namaste react"),
+		React.createElement("h2", {}, "learned by joel jacob"),
 	])
 );
 
