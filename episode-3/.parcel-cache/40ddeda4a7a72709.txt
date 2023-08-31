@@ -1,14 +1,19 @@
-6053
+6059
 60/home/curiouskid/Shin sei/namaste-react/episode-3/.gitignore1692976186973631351 0
 67/home/curiouskid/Shin sei/namaste-react/episode-3/package-lock.json1692700208318773854 0
-77/home/curiouskid/Shin sei/namaste-react/episode-3/dist/index.9e4c6fd2.css.map1692976140253976059 0
+76/home/curiouskid/Shin sei/namaste-react/episode-3/dist/index.64ba8214.js.map1692976213206984585 0
+77/home/curiouskid/Shin sei/namaste-react/episode-3/dist/index.9e4c6fd2.css.map1693459805038331320 0
+76/home/curiouskid/Shin sei/namaste-react/episode-3/dist/index.83014355.js.map1692976213206984585 0
 77/home/curiouskid/Shin sei/namaste-react/episode-3/dist/index.65494174.css.map1692769839496735357 0
-72/home/curiouskid/Shin sei/namaste-react/episode-3/dist/index.7826abd7.js1692976140297308804 0
-65/home/curiouskid/Shin sei/namaste-react/episode-3/dist/index.html1692976140247309483 0
+72/home/curiouskid/Shin sei/namaste-react/episode-3/dist/index.7826abd7.js1693461202661968141 0
+73/home/curiouskid/Shin sei/namaste-react/episode-3/dist/index.1006ffdc.css1692976213173651145 0
+72/home/curiouskid/Shin sei/namaste-react/episode-3/dist/index.83014355.js1692976213173651145 0
+65/home/curiouskid/Shin sei/namaste-react/episode-3/dist/index.html1693459805004996894 0
 76/home/curiouskid/Shin sei/namaste-react/episode-3/dist/index.eb3ec771.js.map1692769839496735357 0
-73/home/curiouskid/Shin sei/namaste-react/episode-3/dist/index.9e4c6fd2.css1692976140247309483 0
+73/home/curiouskid/Shin sei/namaste-react/episode-3/dist/index.9e4c6fd2.css1693459805031664435 0
 73/home/curiouskid/Shin sei/namaste-react/episode-3/dist/index.65494174.css1692769839490068669 0
-54/home/curiouskid/Shin sei/namaste-react/episode-3/dist1692976140310641956 1
+72/home/curiouskid/Shin sei/namaste-react/episode-3/dist/index.64ba8214.js1692976213176984489 0
+54/home/curiouskid/Shin sei/namaste-react/episode-3/dist1693461202675301694 1
 106/home/curiouskid/Shin sei/namaste-react/episode-3/node_modules/@lmdb/lmdb-linux-x64/node.abi108.glibc.node1692606180447698187 0
 105/home/curiouskid/Shin sei/namaste-react/episode-3/node_modules/@lmdb/lmdb-linux-x64/node.abi93.glibc.node1692606180684360959 0
 92/home/curiouskid/Shin sei/namaste-react/episode-3/node_modules/@lmdb/lmdb-linux-x64/index.js1692606180107703781 0
@@ -2131,7 +2136,7 @@
 92/home/curiouskid/Shin sei/namaste-react/episode-3/node_modules/@parcel/profiler/package.json1692606180287700820 0
 82/home/curiouskid/Shin sei/namaste-react/episode-3/node_modules/@swc/helpers/_/_get1692606180947689960 1
 81/home/curiouskid/Shin sei/namaste-react/episode-3/node_modules/picomatch/index.js1692606180127703452 0
-62/home/curiouskid/Shin sei/namaste-react/episode-3/package.json1692976051396719440 0
+62/home/curiouskid/Shin sei/namaste-react/episode-3/package.json1692976257123937482 0
 91/home/curiouskid/Shin sei/namaste-react/episode-3/node_modules/semver/functions/rcompare.js1692606180447698187 0
 125/home/curiouskid/Shin sei/namaste-react/episode-3/node_modules/@parcel/optimizer-svgo/node_modules/csso/lib/replace/String.js1692606180561029656 0
 102/home/curiouskid/Shin sei/namaste-react/episode-3/node_modules/css-tree/cjs/syntax/atrule/supports.cjs1692606180694360795 0
@@ -2537,7 +2542,7 @@
 109/home/curiouskid/Shin sei/namaste-react/episode-3/node_modules/abortcontroller-polyfill/src/abortableFetch.js1692606180127703452 0
 141/home/curiouskid/Shin sei/namaste-react/episode-3/node_modules/@parcel/optimizer-svgo/node_modules/css-select/lib/pseudo-selectors/index.d.ts1692606180457698022 0
 128/home/curiouskid/Shin sei/namaste-react/episode-3/node_modules/@parcel/optimizer-svgo/node_modules/csso/lib/clean/Declaration.js1692606180531030150 0
-60/home/curiouskid/Shin sei/namaste-react/episode-3/index.html1692695113337825586 0
+60/home/curiouskid/Shin sei/namaste-react/episode-3/index.html1692977779153030504 0
 108/home/curiouskid/Shin sei/namaste-react/episode-3/node_modules/@swc/helpers/cjs/_class_private_field_get.cjs1692606180357699668 0
 101/home/curiouskid/Shin sei/namaste-react/episode-3/node_modules/lmdb/dependencies/lz4/lib/liblz4.pc.in1692606180784359314 0
 83/home/curiouskid/Shin sei/namaste-react/episode-3/node_modules/ordered-binary/tests1692606180211035414 1
@@ -2561,7 +2566,7 @@
 94/home/curiouskid/Shin sei/namaste-react/episode-3/node_modules/@swc/helpers/_/_sliced_to_array1692606181024355366 1
 93/home/curiouskid/Shin sei/namaste-react/episode-3/node_modules/type-fest/ts41/camel-case.d.ts1692606180234368363 0
 109/home/curiouskid/Shin sei/namaste-react/episode-3/node_modules/@parcel/core/test/fixtures/application-targets1692606180867691275 1
-56/home/curiouskid/Shin sei/namaste-react/episode-3/App.js1692697211684376399 0
+56/home/curiouskid/Shin sei/namaste-react/episode-3/App.js1693461202538632781 0
 141/home/curiouskid/Shin sei/namaste-react/episode-3/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/syntax/node/WhiteSpace.js1692606180777692757 0
 92/home/curiouskid/Shin sei/namaste-react/episode-3/node_modules/lmdb/dependencies/lz4/lib/dll1692606180821025377 1
 116/home/curiouskid/Shin sei/namaste-react/episode-3/node_modules/@parcel/transformer-postcss/src/PostCSSTransformer.js1692606180277700985 0
@@ -4031,6 +4036,7 @@
 88/home/curiouskid/Shin sei/namaste-react/episode-3/node_modules/@parcel/utils/src/glob.js1692606180424365237 0
 92/home/curiouskid/Shin sei/namaste-react/episode-3/node_modules/css-select/lib/types.d.ts.map1692606180561029656 0
 81/home/curiouskid/Shin sei/namaste-react/episode-3/node_modules/@parcel/utils/test1692606180694360795 1
+77/home/curiouskid/Shin sei/namaste-react/episode-3/dist/index.1006ffdc.css.map1692976213203651242 0
 119/home/curiouskid/Shin sei/namaste-react/episode-3/node_modules/dom-serializer/node_modules/entities/lib/encode.d.ts.map1692606180314367048 0
 102/home/curiouskid/Shin sei/namaste-react/episode-3/node_modules/caniuse-lite/data/features/atob-btoa.js1692606180507697199 0
 98/home/curiouskid/Shin sei/namaste-react/episode-3/node_modules/@swc/helpers/cjs/_object_spread.cjs1692606180531030150 0
@@ -4942,7 +4948,7 @@
 103/home/curiouskid/Shin sei/namaste-react/episode-3/node_modules/@swc/helpers/esm/_array_like_to_array.js1692606180581029327 0
 137/home/curiouskid/Shin sei/namaste-react/episode-3/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/node/StyleSheet.js1692606180747693250 0
 93/home/curiouskid/Shin sei/namaste-react/episode-3/node_modules/nth-check/lib/esm/parse.js.map1692606180334366719 0
-76/home/curiouskid/Shin sei/namaste-react/episode-3/dist/index.7826abd7.js.map1692976140307308668 0
+76/home/curiouskid/Shin sei/namaste-react/episode-3/dist/index.7826abd7.js.map1693461202671968306 0
 94/home/curiouskid/Shin sei/namaste-react/episode-3/node_modules/caniuse-lite/data/regions/LY.js1692606181034355200 0
 80/home/curiouskid/Shin sei/namaste-react/episode-3/node_modules/nth-check/LICENSE1692606180081037554 0
 106/home/curiouskid/Shin sei/namaste-react/episode-3/node_modules/caniuse-lite/data/features/text-emphasis.js1692606181124353722 0
@@ -5496,7 +5502,7 @@
 108/home/curiouskid/Shin sei/namaste-react/episode-3/node_modules/caniuse-lite/data/features/background-sync.js1692606180557696376 0
 132/home/curiouskid/Shin sei/namaste-react/episode-3/node_modules/@parcel/package-manager/test/fixtures/packages/peers-2.0/package.json1692606180577696047 0
 101/home/curiouskid/Shin sei/namaste-react/episode-3/node_modules/caniuse-lite/data/features/progress.js1692606181107687329 0
-59/home/curiouskid/Shin sei/namaste-react/episode-3/index.css1692252398870334708 0
+59/home/curiouskid/Shin sei/namaste-react/episode-3/index.css1692977563956918054 0
 103/home/curiouskid/Shin sei/namaste-react/episode-3/node_modules/csso/node_modules/css-tree/dist/data.cjs1692606180531030150 0
 108/home/curiouskid/Shin sei/namaste-react/episode-3/node_modules/caniuse-lite/data/features/x-doc-messaging.js1692606181151019951 0
 107/home/curiouskid/Shin sei/namaste-react/episode-3/node_modules/@swc/helpers/esm/_assert_this_initialized.js1692606180594362441 0
